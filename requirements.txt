@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+pyarrow
+xgboost
+python-docx
+# Optional, only if you use Anthropic Claude instead of free Gemini:
+# anthropic
