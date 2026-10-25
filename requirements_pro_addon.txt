@@ -1,0 +1,4 @@
+# Two OPTIONAL libraries for the new features. Add these two lines to your requirements.txt when you deploy.
+# Without them the app still runs: charts fall back to static images and PDF export shows an install hint.
+plotly
+reportlab
